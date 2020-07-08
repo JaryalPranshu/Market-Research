@@ -1,0 +1,4403 @@
+From: "Saved by Internet Explorer 11"
+Subject: SAS Output
+Date: Tue, 10 Mar 2020 00:38:20 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://E:\SAS Temporary Files\sxr190026\_TD49996_SMVSASCLASSC_\sashtml1.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.3.9600.19626
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.19626">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.heading1 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading2 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading3 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading4 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading5 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading6 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.linecontent {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#fafbfe
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: collapse; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; BORDER-LEFT: 0px
+}
+.middle_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; PADDING-TOP: 1px; BORDER-LEFT: 0px
+}
+.bottom_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-TOP: =
+1px; BORDER-LEFT: 0px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Descriptive Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Descriptive=20
+  Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variables</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean</TH>
+    <TH class=3D"r b header" scope=3Dcol>Uncorrected SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>Variance</TH>
+    <TH class=3D"r b header" scope=3Dcol>Std Deviation</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1287.0</TD>
+    <TD class=3D"r data">1.0000</TD>
+    <TD class=3D"r data">1287.0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">668.0</TD>
+    <TD class=3D"r data">0.5190</TD>
+    <TD class=3D"r data">668.0</TD>
+    <TD class=3D"r data">0.2498</TD>
+    <TD class=3D"r data">0.4998</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">419.0</TD>
+    <TD class=3D"r data">0.3256</TD>
+    <TD class=3D"r data">419.0</TD>
+    <TD class=3D"r data">0.2197</TD>
+    <TD class=3D"r data">0.4688</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>phpf</TH>
+    <TD class=3D"r data">202.0</TD>
+    <TD class=3D"r data">0.1570</TD>
+    <TD class=3D"r data">202.0</TD>
+    <TD class=3D"r data">0.1324</TD>
+    <TD class=3D"r data">0.3639</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plpf</TH>
+    <TD class=3D"r data">29.0000</TD>
+    <TD class=3D"r data">0.0225</TD>
+    <TD class=3D"r data">29.0000</TD>
+    <TD class=3D"r data">0.0220</TD>
+    <TD class=3D"r data">0.1485</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>psc</TH>
+    <TD class=3D"r data">2.0000</TD>
+    <TD class=3D"r data">0.00155</TD>
+    <TD class=3D"r data">2.0000</TD>
+    <TD class=3D"r data">0.00155</TD>
+    <TD class=3D"r data">0.0394</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>papc</TH>
+    <TD class=3D"r data">97.0000</TD>
+    <TD class=3D"r data">0.0754</TD>
+    <TD class=3D"r data">97.0000</TD>
+    <TD class=3D"r data">0.0697</TD>
+    <TD class=3D"r data">0.2641</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncomp</TH>
+    <TD class=3D"r data">2942.0</TD>
+    <TD class=3D"r data">2.2859</TD>
+    <TD class=3D"r data">8168.0</TD>
+    <TD class=3D"r data">1.1219</TD>
+    <TD class=3D"r data">1.0592</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">9168.4</TD>
+    <TD class=3D"r data">7.1239</TD>
+    <TD class=3D"r data">104953</TD>
+    <TD class=3D"r data">30.8232</TD>
+    <TD class=3D"r data">5.5519</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">631.0</TD>
+    <TD class=3D"r data">0.4903</TD>
+    <TD class=3D"r data">631.0</TD>
+    <TD class=3D"r data">0.2501</TD>
+    <TD class=3D"r data">0.5001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">7668.9</TD>
+    <TD class=3D"r data">5.9587</TD>
+    <TD class=3D"r data">213117</TD>
+    <TD class=3D"r data">130.2</TD>
+    <TD class=3D"r data">11.4099</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custtyp</TH>
+    <TD class=3D"r data">2655.0</TD>
+    <TD class=3D"r data">2.0629</TD>
+    <TD class=3D"r data">5995.0</TD>
+    <TD class=3D"r data">0.4027</TD>
+    <TD class=3D"r data">0.6346</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncust</TH>
+    <TD class=3D"r data">7330.0</TD>
+    <TD class=3D"r data">5.6954</TD>
+    <TD class=3D"r data">44414.0</TD>
+    <TD class=3D"r data">2.0736</TD>
+    <TD class=3D"r data">1.4400</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custsize</TH>
+    <TD class=3D"r data">2658.0</TD>
+    <TD class=3D"r data">2.0653</TD>
+    <TD class=3D"r data">5938.0</TD>
+    <TD class=3D"r data">0.3488</TD>
+    <TD class=3D"r data">0.5906</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>penew</TH>
+    <TD class=3D"r data">65889.2</TD>
+    <TD class=3D"r data">51.1960</TD>
+    <TD class=3D"r data">3635643</TD>
+    <TD class=3D"r data">204.0</TD>
+    <TD class=3D"r data">14.2839</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>cap</TH>
+    <TD class=3D"r data">98682.2</TD>
+    <TD class=3D"r data">76.6761</TD>
+    <TD class=3D"r data">7878216</TD>
+    <TD class=3D"r data">242.3</TD>
+    <TD class=3D"r data">15.5672</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>rbvi</TH>
+    <TD class=3D"r data">2461.0</TD>
+    <TD class=3D"r data">1.9122</TD>
+    <TD class=3D"r data">5189.0</TD>
+    <TD class=3D"r data">0.3756</TD>
+    <TD class=3D"r data">0.6129</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>emprody</TH>
+    <TD class=3D"r data">51019.5</TD>
+    <TD class=3D"r data">39.6422</TD>
+    <TD class=3D"r data">2968392</TD>
+    <TD class=3D"r data">735.5</TD>
+    <TD class=3D"r data">27.1203</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>union</TH>
+    <TD class=3D"r data">63249.0</TD>
+    <TD class=3D"r data">49.1445</TD>
+    <TD class=3D"r data">4475297</TD>
+    <TD class=3D"r data">1063.0</TD>
+    <TD class=3D"r data">32.6029</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">32006.3</TD>
+    <TD class=3D"r data">24.8689</TD>
+    <TD class=3D"r data">1215324</TD>
+    <TD class=3D"r data">326.1</TD>
+    <TD class=3D"r data">18.0582</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">29266.9</TD>
+    <TD class=3D"r data">22.7404</TD>
+    <TD class=3D"r data">1554660</TD>
+    <TD class=3D"r data">691.4</TD>
+    <TD class=3D"r data">26.2942</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">133596</TD>
+    <TD class=3D"r data">103.8</TD>
+    <TD class=3D"r data">13915911</TD>
+    <TD class=3D"r data">37.4074</TD>
+    <TD class=3D"r data">6.1162</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">131702</TD>
+    <TD class=3D"r data">102.3</TD>
+    <TD class=3D"r data">13543097</TD>
+    <TD class=3D"r data">51.0845</TD>
+    <TD class=3D"r data">7.1473</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">2691.0</TD>
+    <TD class=3D"r data">2.0909</TD>
+    <TD class=3D"r data">6421.0</TD>
+    <TD class=3D"r data">0.6177</TD>
+    <TD class=3D"r =
+data">0.7859</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX1></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">ms</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">ms</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX2></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">11</TD>
+    <TD class=3D"r data">158377.3</TD>
+    <TD class=3D"r data">14397.94</TD>
+    <TD class=3D"r data">45.66</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1275</TD>
+    <TD class=3D"r data">402008.8</TD>
+    <TD class=3D"r data">315.3010</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">419361.5</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX3></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">17.75672</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.28262</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">24.86892</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.27643</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">71.40124</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX4></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">39.52133</TD>
+    <TD class=3D"r data">62.78939</TD>
+    <TD class=3D"r data">0.63</TD>
+    <TD class=3D"r data">0.5292</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.508689</TD>
+    <TD class=3D"r data">0.122596</TD>
+    <TD class=3D"r data">4.15</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.00943</TD>
+    <TD class=3D"r data">0.413658</TD>
+    <TD class=3D"r data" noWrap>-2.44</TD>
+    <TD class=3D"r data">0.0148</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.875453</TD>
+    <TD class=3D"r data">0.654417</TD>
+    <TD class=3D"r data">1.34</TD>
+    <TD class=3D"r data">0.1812</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">7.175360</TD>
+    <TD class=3D"r data">1.639409</TD>
+    <TD class=3D"r data">4.38</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">5.791929</TD>
+    <TD class=3D"r data">1.562641</TD>
+    <TD class=3D"r data">3.71</TD>
+    <TD class=3D"r data">0.0002</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>phpf</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.572868</TD>
+    <TD class=3D"r data">1.527620</TD>
+    <TD class=3D"r data">0.38</TD>
+    <TD class=3D"r data">0.7077</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plpf</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.166099</TD>
+    <TD class=3D"r data">3.957445</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">0.9665</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>psc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-30.8958</TD>
+    <TD class=3D"r data">12.93194</TD>
+    <TD class=3D"r data" noWrap>-2.39</TD>
+    <TD class=3D"r data">0.0170</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>papc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.46455</TD>
+    <TD class=3D"r data">2.225546</TD>
+    <TD class=3D"r data" noWrap>-0.66</TD>
+    <TD class=3D"r data">0.5106</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncomp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-7.55417</TD>
+    <TD class=3D"r data">0.489293</TD>
+    <TD class=3D"r data" noWrap>-15.44</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.29136</TD>
+    <TD class=3D"r data">0.165377</TD>
+    <TD class=3D"r data" noWrap>-1.76</TD>
+    <TD class=3D"r =
+data">0.0783</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX5></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">qual</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r =
+data">qual</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX6></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">81275.02</TD>
+    <TD class=3D"r data">11610.72</TD>
+    <TD class=3D"r data">19.30</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1279</TD>
+    <TD class=3D"r data">769409.2</TD>
+    <TD class=3D"r data">601.5709</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">889119.0</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX7></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">24.52694</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.09554</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">22.74040</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.09059</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">107.85623</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX8></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-265.494</TD>
+    <TD class=3D"r data">63.56925</TD>
+    <TD class=3D"r data" noWrap>-4.18</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">2.595316</TD>
+    <TD class=3D"r data">0.638913</TD>
+    <TD class=3D"r data">4.06</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">10.47285</TD>
+    <TD class=3D"r data">1.958009</TD>
+    <TD class=3D"r data">5.35</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.39839</TD>
+    <TD class=3D"r data">4.642522</TD>
+    <TD class=3D"r data" noWrap>-0.09</TD>
+    <TD class=3D"r data">0.9316</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-2.23599</TD>
+    <TD class=3D"r data">2.142150</TD>
+    <TD class=3D"r data" noWrap>-1.04</TD>
+    <TD class=3D"r data">0.2968</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.187802</TD>
+    <TD class=3D"r data">4.337466</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">0.9655</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.48914</TD>
+    <TD class=3D"r data">0.205769</TD>
+    <TD class=3D"r data" noWrap>-2.38</TD>
+    <TD class=3D"r data">0.0176</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.211277</TD>
+    <TD class=3D"r data">0.061838</TD>
+    <TD class=3D"r data">3.42</TD>
+    <TD class=3D"r =
+data">0.0007</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX9></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">plb</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">plb</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+
+name=3DIDX10></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">2406.447</TD>
+    <TD class=3D"r data">300.8059</TD>
+    <TD class=3D"r data">3.77</TD>
+    <TD class=3D"r data">0.0002</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1278</TD>
+    <TD class=3D"r data">101899.8</TD>
+    <TD class=3D"r data">79.73377</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">65694.67</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX11></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">8.92938</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.02307</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">102.33256</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.01696</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">8.72584</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX12></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">109.0706</TD>
+    <TD class=3D"r data">1.650573</TD>
+    <TD class=3D"r data">66.08</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-8.73302</TD>
+    <TD class=3D"r data">2.565446</TD>
+    <TD class=3D"r data" noWrap>-3.40</TD>
+    <TD class=3D"r data">0.0007</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.715145</TD>
+    <TD class=3D"r data">1.698292</TD>
+    <TD class=3D"r data">1.01</TD>
+    <TD class=3D"r data">0.3127</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.29136</TD>
+    <TD class=3D"r data">1.523126</TD>
+    <TD class=3D"r data" noWrap>-0.19</TD>
+    <TD class=3D"r data">0.8483</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.12958</TD>
+    <TD class=3D"r data">0.772197</TD>
+    <TD class=3D"r data" noWrap>-0.17</TD>
+    <TD class=3D"r data">0.8668</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.054686</TD>
+    <TD class=3D"r data">0.021919</TD>
+    <TD class=3D"r data">2.49</TD>
+    <TD class=3D"r data">0.0127</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custtyp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">3.940911</TD>
+    <TD class=3D"r data">1.368804</TD>
+    <TD class=3D"r data">2.88</TD>
+    <TD class=3D"r data">0.0041</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncust</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.225838</TD>
+    <TD class=3D"r data">0.210697</TD>
+    <TD class=3D"r data">1.07</TD>
+    <TD class=3D"r data">0.2840</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custsize</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.520397</TD>
+    <TD class=3D"r data">0.638869</TD>
+    <TD class=3D"r data">0.81</TD>
+    <TD class=3D"r =
+data">0.4155</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX13></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">price</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r =
+data">price</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX14></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">4203.558</TD>
+    <TD class=3D"r data">525.4447</TD>
+    <TD class=3D"r data">16.36</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1278</TD>
+    <TD class=3D"r data">41034.72</TD>
+    <TD class=3D"r data">32.10855</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">48105.97</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX15></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">5.66644</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.09292</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">103.80412</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.08724</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">5.45878</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX16></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">100.3140</TD>
+    <TD class=3D"r data">0.916136</TD>
+    <TD class=3D"r data">109.50</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.01764</TD>
+    <TD class=3D"r data">0.019380</TD>
+    <TD class=3D"r data" noWrap>-0.91</TD>
+    <TD class=3D"r data">0.3628</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.141663</TD>
+    <TD class=3D"r data">0.035232</TD>
+    <TD class=3D"r data">4.02</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.45759</TD>
+    <TD class=3D"r data">0.619927</TD>
+    <TD class=3D"r data" noWrap>-0.74</TD>
+    <TD class=3D"r data">0.4606</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.661022</TD>
+    <TD class=3D"r data">1.073669</TD>
+    <TD class=3D"r data">1.55</TD>
+    <TD class=3D"r data">0.1221</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.070665</TD>
+    <TD class=3D"r data">0.517670</TD>
+    <TD class=3D"r data">0.14</TD>
+    <TD class=3D"r data">0.8914</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.42106</TD>
+    <TD class=3D"r data">0.979397</TD>
+    <TD class=3D"r data" noWrap>-1.45</TD>
+    <TD class=3D"r data">0.1470</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.224952</TD>
+    <TD class=3D"r data">0.030689</TD>
+    <TD class=3D"r data">7.33</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.02127</TD>
+    <TD class=3D"r data">0.016541</TD>
+    <TD class=3D"r data" noWrap>-1.29</TD>
+    <TD class=3D"r =
+data">0.1988</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX17></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">dc</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">dc</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX18></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">10</TD>
+    <TD class=3D"r data">147.9904</TD>
+    <TD class=3D"r data">14.79904</TD>
+    <TD class=3D"r data">13.21</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1276</TD>
+    <TD class=3D"r data">1429.556</TD>
+    <TD class=3D"r data">1.120342</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">794.3636</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX19></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">1.05846</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.09381</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">2.09091</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.08671</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">50.62209</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX20></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.140754</TD>
+    <TD class=3D"r data">0.221469</TD>
+    <TD class=3D"r data">5.15</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.004963</TD>
+    <TD class=3D"r data">0.003573</TD>
+    <TD class=3D"r data">1.39</TD>
+    <TD class=3D"r data">0.1651</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.035383</TD>
+    <TD class=3D"r data">0.005223</TD>
+    <TD class=3D"r data">6.77</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.07697</TD>
+    <TD class=3D"r data">0.201686</TD>
+    <TD class=3D"r data" noWrap>-0.38</TD>
+    <TD class=3D"r data">0.7028</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.140887</TD>
+    <TD class=3D"r data">0.095990</TD>
+    <TD class=3D"r data">1.47</TD>
+    <TD class=3D"r data">0.1424</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.221522</TD>
+    <TD class=3D"r data">0.182612</TD>
+    <TD class=3D"r data">1.21</TD>
+    <TD class=3D"r data">0.2253</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>penew</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.00340</TD>
+    <TD class=3D"r data">0.002123</TD>
+    <TD class=3D"r data" noWrap>-1.60</TD>
+    <TD class=3D"r data">0.1098</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>cap</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.000041</TD>
+    <TD class=3D"r data">0.001952</TD>
+    <TD class=3D"r data">0.02</TD>
+    <TD class=3D"r data">0.9832</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>rbvi</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.04885</TD>
+    <TD class=3D"r data">0.055304</TD>
+    <TD class=3D"r data" noWrap>-0.88</TD>
+    <TD class=3D"r data">0.3773</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>emprody</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.002523</TD>
+    <TD class=3D"r data">0.001193</TD>
+    <TD class=3D"r data">2.12</TD>
+    <TD class=3D"r data">0.0346</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>union</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.001460</TD>
+    <TD class=3D"r data">0.000949</TD>
+    <TD class=3D"r data">1.54</TD>
+    <TD class=3D"r =
+data">0.1242</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX21></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The REG Procedure</DIV>
+<DIV class=3D"c proctitle">Model: MODEL1</DIV>
+<DIV class=3D"c proctitle">Dependent Variable: ms </DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Reg: Number of Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">1287</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r =
+data">1287</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX22></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Reg: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">11</TD>
+    <TD class=3D"r data">166359</TD>
+    <TD class=3D"r data">15124</TD>
+    <TD class=3D"r data">76.21</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1275</TD>
+    <TD class=3D"r data">253003</TD>
+    <TD class=3D"r data">198.43348</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">419362</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX23></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Reg: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">14.08664</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.3967</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">24.86892</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.3915</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">56.64356</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX24></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Reg: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data">47.10577</TD>
+    <TD class=3D"r data">7.93726</TD>
+    <TD class=3D"r data">5.93</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data">0.16803</TD>
+    <TD class=3D"r data">0.01669</TD>
+    <TD class=3D"r data">10.07</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data" noWrap>-0.48873</TD>
+    <TD class=3D"r data">0.06034</TD>
+    <TD class=3D"r data" noWrap>-8.10</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data">0.33801</TD>
+    <TD class=3D"r data">0.07833</TD>
+    <TD class=3D"r data">4.32</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data">9.85044</TD>
+    <TD class=3D"r data">1.23538</TD>
+    <TD class=3D"r data">7.97</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data">4.96093</TD>
+    <TD class=3D"r data">1.21283</TD>
+    <TD class=3D"r data">4.09</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>phpf</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data">1.49996</TD>
+    <TD class=3D"r data">1.20434</TD>
+    <TD class=3D"r data">1.25</TD>
+    <TD class=3D"r data">0.2132</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plpf</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data">1.15149</TD>
+    <TD class=3D"r data">2.71867</TD>
+    <TD class=3D"r data">0.42</TD>
+    <TD class=3D"r data">0.6720</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>psc</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data" noWrap>-20.89740</TD>
+    <TD class=3D"r data">9.99172</TD>
+    <TD class=3D"r data" noWrap>-2.09</TD>
+    <TD class=3D"r data">0.0367</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>papc</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data" noWrap>-1.11110</TD>
+    <TD class=3D"r data">1.55504</TD>
+    <TD class=3D"r data" noWrap>-0.71</TD>
+    <TD class=3D"r data">0.4750</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncomp</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data" noWrap>-7.53340</TD>
+    <TD class=3D"r data">0.37779</TD>
+    <TD class=3D"r data" noWrap>-19.94</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TH class=3D"r data">1</TH>
+    <TD class=3D"r data" noWrap>-0.11006</TD>
+    <TD class=3D"r data">0.07492</TD>
+    <TD class=3D"r data" noWrap>-1.47</TD>
+    <TD class=3D"r =
+data">0.1421</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX25></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Descriptive Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Descriptive=20
+  Statistics</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variables</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean</TH>
+    <TH class=3D"r b header" scope=3Dcol>Uncorrected SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>Variance</TH>
+    <TH class=3D"r b header" scope=3Dcol>Std Deviation</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1287.0</TD>
+    <TD class=3D"r data">1.0000</TD>
+    <TD class=3D"r data">1287.0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">668.0</TD>
+    <TD class=3D"r data">0.5190</TD>
+    <TD class=3D"r data">668.0</TD>
+    <TD class=3D"r data">0.2498</TD>
+    <TD class=3D"r data">0.4998</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">419.0</TD>
+    <TD class=3D"r data">0.3256</TD>
+    <TD class=3D"r data">419.0</TD>
+    <TD class=3D"r data">0.2197</TD>
+    <TD class=3D"r data">0.4688</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>phpf</TH>
+    <TD class=3D"r data">202.0</TD>
+    <TD class=3D"r data">0.1570</TD>
+    <TD class=3D"r data">202.0</TD>
+    <TD class=3D"r data">0.1324</TD>
+    <TD class=3D"r data">0.3639</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plpf</TH>
+    <TD class=3D"r data">29.0000</TD>
+    <TD class=3D"r data">0.0225</TD>
+    <TD class=3D"r data">29.0000</TD>
+    <TD class=3D"r data">0.0220</TD>
+    <TD class=3D"r data">0.1485</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>psc</TH>
+    <TD class=3D"r data">2.0000</TD>
+    <TD class=3D"r data">0.00155</TD>
+    <TD class=3D"r data">2.0000</TD>
+    <TD class=3D"r data">0.00155</TD>
+    <TD class=3D"r data">0.0394</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>papc</TH>
+    <TD class=3D"r data">97.0000</TD>
+    <TD class=3D"r data">0.0754</TD>
+    <TD class=3D"r data">97.0000</TD>
+    <TD class=3D"r data">0.0697</TD>
+    <TD class=3D"r data">0.2641</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncomp</TH>
+    <TD class=3D"r data">2942.0</TD>
+    <TD class=3D"r data">2.2859</TD>
+    <TD class=3D"r data">8168.0</TD>
+    <TD class=3D"r data">1.1219</TD>
+    <TD class=3D"r data">1.0592</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">9168.4</TD>
+    <TD class=3D"r data">7.1239</TD>
+    <TD class=3D"r data">104953</TD>
+    <TD class=3D"r data">30.8232</TD>
+    <TD class=3D"r data">5.5519</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">631.0</TD>
+    <TD class=3D"r data">0.4903</TD>
+    <TD class=3D"r data">631.0</TD>
+    <TD class=3D"r data">0.2501</TD>
+    <TD class=3D"r data">0.5001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">7668.9</TD>
+    <TD class=3D"r data">5.9587</TD>
+    <TD class=3D"r data">213117</TD>
+    <TD class=3D"r data">130.2</TD>
+    <TD class=3D"r data">11.4099</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custtyp</TH>
+    <TD class=3D"r data">2655.0</TD>
+    <TD class=3D"r data">2.0629</TD>
+    <TD class=3D"r data">5995.0</TD>
+    <TD class=3D"r data">0.4027</TD>
+    <TD class=3D"r data">0.6346</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncust</TH>
+    <TD class=3D"r data">7330.0</TD>
+    <TD class=3D"r data">5.6954</TD>
+    <TD class=3D"r data">44414.0</TD>
+    <TD class=3D"r data">2.0736</TD>
+    <TD class=3D"r data">1.4400</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custsize</TH>
+    <TD class=3D"r data">2658.0</TD>
+    <TD class=3D"r data">2.0653</TD>
+    <TD class=3D"r data">5938.0</TD>
+    <TD class=3D"r data">0.3488</TD>
+    <TD class=3D"r data">0.5906</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>penew</TH>
+    <TD class=3D"r data">65889.2</TD>
+    <TD class=3D"r data">51.1960</TD>
+    <TD class=3D"r data">3635643</TD>
+    <TD class=3D"r data">204.0</TD>
+    <TD class=3D"r data">14.2839</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>cap</TH>
+    <TD class=3D"r data">98682.2</TD>
+    <TD class=3D"r data">76.6761</TD>
+    <TD class=3D"r data">7878216</TD>
+    <TD class=3D"r data">242.3</TD>
+    <TD class=3D"r data">15.5672</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>rbvi</TH>
+    <TD class=3D"r data">2461.0</TD>
+    <TD class=3D"r data">1.9122</TD>
+    <TD class=3D"r data">5189.0</TD>
+    <TD class=3D"r data">0.3756</TD>
+    <TD class=3D"r data">0.6129</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>emprody</TH>
+    <TD class=3D"r data">51019.5</TD>
+    <TD class=3D"r data">39.6422</TD>
+    <TD class=3D"r data">2968392</TD>
+    <TD class=3D"r data">735.5</TD>
+    <TD class=3D"r data">27.1203</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>union</TH>
+    <TD class=3D"r data">63249.0</TD>
+    <TD class=3D"r data">49.1445</TD>
+    <TD class=3D"r data">4475297</TD>
+    <TD class=3D"r data">1063.0</TD>
+    <TD class=3D"r data">32.6029</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">32006.3</TD>
+    <TD class=3D"r data">24.8689</TD>
+    <TD class=3D"r data">1215324</TD>
+    <TD class=3D"r data">326.1</TD>
+    <TD class=3D"r data">18.0582</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">29266.9</TD>
+    <TD class=3D"r data">22.7404</TD>
+    <TD class=3D"r data">1554660</TD>
+    <TD class=3D"r data">691.4</TD>
+    <TD class=3D"r data">26.2942</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">133596</TD>
+    <TD class=3D"r data">103.8</TD>
+    <TD class=3D"r data">13915911</TD>
+    <TD class=3D"r data">37.4074</TD>
+    <TD class=3D"r data">6.1162</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">131702</TD>
+    <TD class=3D"r data">102.3</TD>
+    <TD class=3D"r data">13543097</TD>
+    <TD class=3D"r data">51.0845</TD>
+    <TD class=3D"r data">7.1473</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">2691.0</TD>
+    <TD class=3D"r data">2.0909</TD>
+    <TD class=3D"r data">6421.0</TD>
+    <TD class=3D"r data">0.6177</TD>
+    <TD class=3D"r =
+data">0.7859</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX26></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">ms</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">ms</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX27></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">11</TD>
+    <TD class=3D"r data">158377.3</TD>
+    <TD class=3D"r data">14397.94</TD>
+    <TD class=3D"r data">45.66</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1275</TD>
+    <TD class=3D"r data">402008.8</TD>
+    <TD class=3D"r data">315.3010</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">419361.5</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX28></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">17.75672</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.28262</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">24.86892</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.27643</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">71.40124</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX29></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">39.52133</TD>
+    <TD class=3D"r data">62.78939</TD>
+    <TD class=3D"r data">0.63</TD>
+    <TD class=3D"r data">0.5292</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.508689</TD>
+    <TD class=3D"r data">0.122596</TD>
+    <TD class=3D"r data">4.15</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.00943</TD>
+    <TD class=3D"r data">0.413658</TD>
+    <TD class=3D"r data" noWrap>-2.44</TD>
+    <TD class=3D"r data">0.0148</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.875453</TD>
+    <TD class=3D"r data">0.654417</TD>
+    <TD class=3D"r data">1.34</TD>
+    <TD class=3D"r data">0.1812</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">7.175360</TD>
+    <TD class=3D"r data">1.639409</TD>
+    <TD class=3D"r data">4.38</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">5.791929</TD>
+    <TD class=3D"r data">1.562641</TD>
+    <TD class=3D"r data">3.71</TD>
+    <TD class=3D"r data">0.0002</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>phpf</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.572868</TD>
+    <TD class=3D"r data">1.527620</TD>
+    <TD class=3D"r data">0.38</TD>
+    <TD class=3D"r data">0.7077</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plpf</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.166099</TD>
+    <TD class=3D"r data">3.957445</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">0.9665</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>psc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-30.8958</TD>
+    <TD class=3D"r data">12.93194</TD>
+    <TD class=3D"r data" noWrap>-2.39</TD>
+    <TD class=3D"r data">0.0170</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>papc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.46455</TD>
+    <TD class=3D"r data">2.225546</TD>
+    <TD class=3D"r data" noWrap>-0.66</TD>
+    <TD class=3D"r data">0.5106</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncomp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-7.55417</TD>
+    <TD class=3D"r data">0.489293</TD>
+    <TD class=3D"r data" noWrap>-15.44</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.29136</TD>
+    <TD class=3D"r data">0.165377</TD>
+    <TD class=3D"r data" noWrap>-1.76</TD>
+    <TD class=3D"r =
+data">0.0783</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX30></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">qual</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r =
+data">qual</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX31></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">81275.02</TD>
+    <TD class=3D"r data">11610.72</TD>
+    <TD class=3D"r data">19.30</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1279</TD>
+    <TD class=3D"r data">769409.2</TD>
+    <TD class=3D"r data">601.5709</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">889119.0</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX32></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">24.52694</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.09554</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">22.74040</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.09059</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">107.85623</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX33></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-265.494</TD>
+    <TD class=3D"r data">63.56925</TD>
+    <TD class=3D"r data" noWrap>-4.18</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">2.595316</TD>
+    <TD class=3D"r data">0.638913</TD>
+    <TD class=3D"r data">4.06</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">10.47285</TD>
+    <TD class=3D"r data">1.958009</TD>
+    <TD class=3D"r data">5.35</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.39839</TD>
+    <TD class=3D"r data">4.642522</TD>
+    <TD class=3D"r data" noWrap>-0.09</TD>
+    <TD class=3D"r data">0.9316</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-2.23599</TD>
+    <TD class=3D"r data">2.142150</TD>
+    <TD class=3D"r data" noWrap>-1.04</TD>
+    <TD class=3D"r data">0.2968</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.187802</TD>
+    <TD class=3D"r data">4.337466</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">0.9655</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.48914</TD>
+    <TD class=3D"r data">0.205769</TD>
+    <TD class=3D"r data" noWrap>-2.38</TD>
+    <TD class=3D"r data">0.0176</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.211277</TD>
+    <TD class=3D"r data">0.061838</TD>
+    <TD class=3D"r data">3.42</TD>
+    <TD class=3D"r =
+data">0.0007</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX34></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">plb</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">plb</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+
+name=3DIDX35></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">2406.447</TD>
+    <TD class=3D"r data">300.8059</TD>
+    <TD class=3D"r data">3.77</TD>
+    <TD class=3D"r data">0.0002</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1278</TD>
+    <TD class=3D"r data">101899.8</TD>
+    <TD class=3D"r data">79.73377</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">65694.67</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX36></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">8.92938</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.02307</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">102.33256</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.01696</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">8.72584</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX37></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">109.0706</TD>
+    <TD class=3D"r data">1.650573</TD>
+    <TD class=3D"r data">66.08</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-8.73302</TD>
+    <TD class=3D"r data">2.565446</TD>
+    <TD class=3D"r data" noWrap>-3.40</TD>
+    <TD class=3D"r data">0.0007</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.715145</TD>
+    <TD class=3D"r data">1.698292</TD>
+    <TD class=3D"r data">1.01</TD>
+    <TD class=3D"r data">0.3127</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.29136</TD>
+    <TD class=3D"r data">1.523126</TD>
+    <TD class=3D"r data" noWrap>-0.19</TD>
+    <TD class=3D"r data">0.8483</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.12958</TD>
+    <TD class=3D"r data">0.772197</TD>
+    <TD class=3D"r data" noWrap>-0.17</TD>
+    <TD class=3D"r data">0.8668</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.054686</TD>
+    <TD class=3D"r data">0.021919</TD>
+    <TD class=3D"r data">2.49</TD>
+    <TD class=3D"r data">0.0127</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custtyp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">3.940911</TD>
+    <TD class=3D"r data">1.368804</TD>
+    <TD class=3D"r data">2.88</TD>
+    <TD class=3D"r data">0.0041</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncust</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.225838</TD>
+    <TD class=3D"r data">0.210697</TD>
+    <TD class=3D"r data">1.07</TD>
+    <TD class=3D"r data">0.2840</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custsize</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.520397</TD>
+    <TD class=3D"r data">0.638869</TD>
+    <TD class=3D"r data">0.81</TD>
+    <TD class=3D"r =
+data">0.4155</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX38></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">price</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r =
+data">price</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX39></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">4203.558</TD>
+    <TD class=3D"r data">525.4447</TD>
+    <TD class=3D"r data">16.36</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1278</TD>
+    <TD class=3D"r data">41034.72</TD>
+    <TD class=3D"r data">32.10855</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">48105.97</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX40></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">5.66644</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.09292</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">103.80412</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.08724</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">5.45878</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX41></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">100.3140</TD>
+    <TD class=3D"r data">0.916136</TD>
+    <TD class=3D"r data">109.50</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.01764</TD>
+    <TD class=3D"r data">0.019380</TD>
+    <TD class=3D"r data" noWrap>-0.91</TD>
+    <TD class=3D"r data">0.3628</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.141663</TD>
+    <TD class=3D"r data">0.035232</TD>
+    <TD class=3D"r data">4.02</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.45759</TD>
+    <TD class=3D"r data">0.619927</TD>
+    <TD class=3D"r data" noWrap>-0.74</TD>
+    <TD class=3D"r data">0.4606</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.661022</TD>
+    <TD class=3D"r data">1.073669</TD>
+    <TD class=3D"r data">1.55</TD>
+    <TD class=3D"r data">0.1221</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.070665</TD>
+    <TD class=3D"r data">0.517670</TD>
+    <TD class=3D"r data">0.14</TD>
+    <TD class=3D"r data">0.8914</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.42106</TD>
+    <TD class=3D"r data">0.979397</TD>
+    <TD class=3D"r data" noWrap>-1.45</TD>
+    <TD class=3D"r data">0.1470</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.224952</TD>
+    <TD class=3D"r data">0.030689</TD>
+    <TD class=3D"r data">7.33</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.02127</TD>
+    <TD class=3D"r data">0.016541</TD>
+    <TD class=3D"r data" noWrap>-1.29</TD>
+    <TD class=3D"r =
+data">0.1988</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX42></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Two-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">dc</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">dc</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX43></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Analysis of Variance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">10</TD>
+    <TD class=3D"r data">147.9904</TD>
+    <TD class=3D"r data">14.79904</TD>
+    <TD class=3D"r data">13.21</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">1276</TD>
+    <TD class=3D"r data">1429.556</TD>
+    <TD class=3D"r data">1.120342</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">1286</TD>
+    <TD class=3D"r data">794.3636</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX44></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Statistics of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Root MSE</TH>
+    <TD class=3D"r data">1.05846</TD>
+    <TH class=3D"l rowheader" scope=3Drow>R-Square</TH>
+    <TD class=3D"r data">0.09381</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Mean</TH>
+    <TD class=3D"r data">2.09091</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Adj R-Sq</TH>
+    <TD class=3D"r data">0.08671</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Var</TH>
+    <TD class=3D"r data">50.62209</TD>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX45></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.140754</TD>
+    <TD class=3D"r data">0.221469</TD>
+    <TD class=3D"r data">5.15</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.004963</TD>
+    <TD class=3D"r data">0.003573</TD>
+    <TD class=3D"r data">1.39</TD>
+    <TD class=3D"r data">0.1651</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.035383</TD>
+    <TD class=3D"r data">0.005223</TD>
+    <TD class=3D"r data">6.77</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.07697</TD>
+    <TD class=3D"r data">0.201686</TD>
+    <TD class=3D"r data" noWrap>-0.38</TD>
+    <TD class=3D"r data">0.7028</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.140887</TD>
+    <TD class=3D"r data">0.095990</TD>
+    <TD class=3D"r data">1.47</TD>
+    <TD class=3D"r data">0.1424</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.221522</TD>
+    <TD class=3D"r data">0.182612</TD>
+    <TD class=3D"r data">1.21</TD>
+    <TD class=3D"r data">0.2253</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>penew</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.00340</TD>
+    <TD class=3D"r data">0.002123</TD>
+    <TD class=3D"r data" noWrap>-1.60</TD>
+    <TD class=3D"r data">0.1098</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>cap</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.000041</TD>
+    <TD class=3D"r data">0.001952</TD>
+    <TD class=3D"r data">0.02</TD>
+    <TD class=3D"r data">0.9832</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>rbvi</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.04885</TD>
+    <TD class=3D"r data">0.055304</TD>
+    <TD class=3D"r data" noWrap>-0.88</TD>
+    <TD class=3D"r data">0.3773</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>emprody</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.002523</TD>
+    <TD class=3D"r data">0.001193</TD>
+    <TD class=3D"r data">2.12</TD>
+    <TD class=3D"r data">0.0346</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>union</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.001460</TD>
+    <TD class=3D"r data">0.000949</TD>
+    <TD class=3D"r data">1.54</TD>
+    <TD class=3D"r =
+data">0.1242</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX46></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The SYSLIN Procedure</DIV>
+<DIV class=3D"c proctitle">Three-Stage Least Squares Estimation</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Cross Model Covariance" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Cross Model=20
+  Covariance</TH></TR>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>ms</TH>
+    <TH class=3D"r b header" scope=3Dcol>qual</TH>
+    <TH class=3D"r b header" scope=3Dcol>plb</TH>
+    <TH class=3D"r b header" scope=3Dcol>price</TH>
+    <TH class=3D"r b header" scope=3Dcol>dc</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">315.301</TD>
+    <TD class=3D"r data" noWrap>-191.460</TD>
+    <TD class=3D"r data">23.6492</TD>
+    <TD class=3D"r data">9.115</TD>
+    <TD class=3D"r data">9.5110</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data" noWrap>-191.460</TD>
+    <TD class=3D"r data">601.571</TD>
+    <TD class=3D"r data" noWrap>-63.3688</TD>
+    <TD class=3D"r data" noWrap>-105.718</TD>
+    <TD class=3D"r data" noWrap>-19.6502</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">23.649</TD>
+    <TD class=3D"r data" noWrap>-63.369</TD>
+    <TD class=3D"r data">79.7338</TD>
+    <TD class=3D"r data">16.743</TD>
+    <TD class=3D"r data">2.8038</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">9.115</TD>
+    <TD class=3D"r data" noWrap>-105.718</TD>
+    <TD class=3D"r data">16.7429</TD>
+    <TD class=3D"r data">32.109</TD>
+    <TD class=3D"r data">1.3142</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">9.511</TD>
+    <TD class=3D"r data" noWrap>-19.650</TD>
+    <TD class=3D"r data">2.8038</TD>
+    <TD class=3D"r data">1.314</TD>
+    <TD class=3D"r =
+data">1.1203</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX47></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Cross Model Correlation" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Cross Model=20
+  Correlation</TH></TR>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>ms</TH>
+    <TH class=3D"r b header" scope=3Dcol>qual</TH>
+    <TH class=3D"r b header" scope=3Dcol>plb</TH>
+    <TH class=3D"r b header" scope=3Dcol>price</TH>
+    <TH class=3D"r b header" scope=3Dcol>dc</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1.00000</TD>
+    <TD class=3D"r data" noWrap>-0.43962</TD>
+    <TD class=3D"r data">0.14915</TD>
+    <TD class=3D"r data">0.09059</TD>
+    <TD class=3D"r data">0.50604</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data" noWrap>-0.43962</TD>
+    <TD class=3D"r data">1.00000</TD>
+    <TD class=3D"r data" noWrap>-0.28934</TD>
+    <TD class=3D"r data" noWrap>-0.76067</TD>
+    <TD class=3D"r data" noWrap>-0.75692</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">0.14915</TD>
+    <TD class=3D"r data" noWrap>-0.28934</TD>
+    <TD class=3D"r data">1.00000</TD>
+    <TD class=3D"r data">0.33090</TD>
+    <TD class=3D"r data">0.29666</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">0.09059</TD>
+    <TD class=3D"r data" noWrap>-0.76067</TD>
+    <TD class=3D"r data">0.33090</TD>
+    <TD class=3D"r data">1.00000</TD>
+    <TD class=3D"r data">0.21912</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">0.50604</TD>
+    <TD class=3D"r data" noWrap>-0.75692</TD>
+    <TD class=3D"r data">0.29666</TD>
+    <TD class=3D"r data">0.21912</TD>
+    <TD class=3D"r =
+data">1.00000</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX48></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Cross Model Inverse Correlation" =
+frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Cross Model =
+Inverse=20
+      Correlation</TH></TR>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>ms</TH>
+    <TH class=3D"r b header" scope=3Dcol>qual</TH>
+    <TH class=3D"r b header" scope=3Dcol>plb</TH>
+    <TH class=3D"r b header" scope=3Dcol>price</TH>
+    <TH class=3D"r b header" scope=3Dcol>dc</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1.58602</TD>
+    <TD class=3D"r data">2.5654</TD>
+    <TD class=3D"r data" noWrap>-0.31923</TD>
+    <TD class=3D"r data">1.7258</TD>
+    <TD class=3D"r data">0.8557</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">2.56536</TD>
+    <TD class=3D"r data">27.3116</TD>
+    <TD class=3D"r data" noWrap>-3.31827</TD>
+    <TD class=3D"r data">18.0461</TD>
+    <TD class=3D"r data">16.4046</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data" noWrap>-0.31923</TD>
+    <TD class=3D"r data" noWrap>-3.3183</TD>
+    <TD class=3D"r data">1.59691</TD>
+    <TD class=3D"r data" noWrap>-2.5261</TD>
+    <TD class=3D"r data" noWrap>-2.2703</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">1.72584</TD>
+    <TD class=3D"r data">18.0461</TD>
+    <TD class=3D"r data" noWrap>-2.52613</TD>
+    <TD class=3D"r data">13.0682</TD>
+    <TD class=3D"r data">10.6720</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">0.85571</TD>
+    <TD class=3D"r data">16.4046</TD>
+    <TD class=3D"r data" noWrap>-2.27032</TD>
+    <TD class=3D"r data">10.6720</TD>
+    <TD class=3D"r =
+data">11.3190</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX49></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Cross Model Inverse Covariance" =
+frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Cross Model =
+Inverse=20
+      Covariance</TH></TR>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>ms</TH>
+    <TH class=3D"r b header" scope=3Dcol>qual</TH>
+    <TH class=3D"r b header" scope=3Dcol>plb</TH>
+    <TH class=3D"r b header" scope=3Dcol>price</TH>
+    <TH class=3D"r b header" scope=3Dcol>dc</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">0.005030</TD>
+    <TD class=3D"r data">0.005890</TD>
+    <TD class=3D"r data">-.002013</TD>
+    <TD class=3D"r data">0.01715</TD>
+    <TD class=3D"r data">0.0455</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">0.005890</TD>
+    <TD class=3D"r data">0.045401</TD>
+    <TD class=3D"r data">-.015151</TD>
+    <TD class=3D"r data">0.12985</TD>
+    <TD class=3D"r data">0.6319</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">-.002013</TD>
+    <TD class=3D"r data">-.015151</TD>
+    <TD class=3D"r data">0.020028</TD>
+    <TD class=3D"r data" noWrap>-0.04993</TD>
+    <TD class=3D"r data" noWrap>-0.2402</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">0.017153</TD>
+    <TD class=3D"r data">0.129846</TD>
+    <TD class=3D"r data">-.049926</TD>
+    <TD class=3D"r data">0.40700</TD>
+    <TD class=3D"r data">1.7793</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">0.045529</TD>
+    <TD class=3D"r data">0.631898</TD>
+    <TD class=3D"r data">-.240210</TD>
+    <TD class=3D"r data">1.77934</TD>
+    <TD class=3D"r =
+data">10.1031</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX50></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Weighted Model Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>System Weighted MSE</TH>
+    <TD class=3D"r data">13.2001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Degrees of freedom</TH>
+    <TD class=3D"r data">6386</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>System Weighted R-Square</TH>
+    <TD class=3D"r =
+data">0.2018</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX51></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">ms</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">ms</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX52></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-7.15367</TD>
+    <TD class=3D"r data">54.18326</TD>
+    <TD class=3D"r data" noWrap>-0.13</TD>
+    <TD class=3D"r data">0.8950</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.466087</TD>
+    <TD class=3D"r data">0.107703</TD>
+    <TD class=3D"r data">4.33</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plb</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.89882</TD>
+    <TD class=3D"r data">0.349352</TD>
+    <TD class=3D"r data" noWrap>-2.57</TD>
+    <TD class=3D"r data">0.0102</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.242851</TD>
+    <TD class=3D"r data">0.563439</TD>
+    <TD class=3D"r data">2.21</TD>
+    <TD class=3D"r data">0.0276</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">7.147728</TD>
+    <TD class=3D"r data">1.584372</TD>
+    <TD class=3D"r data">4.51</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">5.839459</TD>
+    <TD class=3D"r data">1.555124</TD>
+    <TD class=3D"r data">3.75</TD>
+    <TD class=3D"r data">0.0002</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>phpf</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.48413</TD>
+    <TD class=3D"r data">1.221898</TD>
+    <TD class=3D"r data" noWrap>-0.40</TD>
+    <TD class=3D"r data">0.6920</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>plpf</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.910604</TD>
+    <TD class=3D"r data">3.243889</TD>
+    <TD class=3D"r data">0.59</TD>
+    <TD class=3D"r data">0.5560</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>psc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-30.3231</TD>
+    <TD class=3D"r data">10.42519</TD>
+    <TD class=3D"r data" noWrap>-2.91</TD>
+    <TD class=3D"r data">0.0037</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>papc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.19684</TD>
+    <TD class=3D"r data">1.813072</TD>
+    <TD class=3D"r data" noWrap>-0.11</TD>
+    <TD class=3D"r data">0.9136</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncomp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-8.23021</TD>
+    <TD class=3D"r data">0.435561</TD>
+    <TD class=3D"r data" noWrap>-18.90</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.32476</TD>
+    <TD class=3D"r data">0.142864</TD>
+    <TD class=3D"r data" noWrap>-2.27</TD>
+    <TD class=3D"r =
+data">0.0232</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX53></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">qual</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r =
+data">qual</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX54></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-316.453</TD>
+    <TD class=3D"r data">24.08412</TD>
+    <TD class=3D"r data" noWrap>-13.14</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>price</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">2.948842</TD>
+    <TD class=3D"r data">0.235901</TD>
+    <TD class=3D"r data">12.50</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">19.28343</TD>
+    <TD class=3D"r data">1.400501</TD>
+    <TD class=3D"r data">13.77</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-5.35896</TD>
+    <TD class=3D"r data">4.131716</TD>
+    <TD class=3D"r data" noWrap>-1.30</TD>
+    <TD class=3D"r data">0.1949</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-3.17689</TD>
+    <TD class=3D"r data">2.116065</TD>
+    <TD class=3D"r data" noWrap>-1.50</TD>
+    <TD class=3D"r data">0.1335</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.042802</TD>
+    <TD class=3D"r data">3.784238</TD>
+    <TD class=3D"r data">0.28</TD>
+    <TD class=3D"r data">0.7829</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.61277</TD>
+    <TD class=3D"r data">0.098562</TD>
+    <TD class=3D"r data" noWrap>-6.22</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.074131</TD>
+    <TD class=3D"r data">0.042705</TD>
+    <TD class=3D"r data">1.74</TD>
+    <TD class=3D"r =
+data">0.0828</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX55></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">plb</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">plb</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+
+name=3DIDX56></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">110.9944</TD>
+    <TD class=3D"r data">1.552082</TD>
+    <TD class=3D"r data">71.51</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-9.33612</TD>
+    <TD class=3D"r data">2.299687</TD>
+    <TD class=3D"r data" noWrap>-4.06</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">2.109728</TD>
+    <TD class=3D"r data">1.669187</TD>
+    <TD class=3D"r data">1.26</TD>
+    <TD class=3D"r data">0.2065</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.29162</TD>
+    <TD class=3D"r data">1.504924</TD>
+    <TD class=3D"r data" noWrap>-0.19</TD>
+    <TD class=3D"r data">0.8464</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.024816</TD>
+    <TD class=3D"r data">0.771656</TD>
+    <TD class=3D"r data">0.03</TD>
+    <TD class=3D"r data">0.9743</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.073186</TD>
+    <TD class=3D"r data">0.021082</TD>
+    <TD class=3D"r data">3.47</TD>
+    <TD class=3D"r data">0.0005</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custtyp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">3.451683</TD>
+    <TD class=3D"r data">1.215979</TD>
+    <TD class=3D"r data">2.84</TD>
+    <TD class=3D"r data">0.0046</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ncust</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.189442</TD>
+    <TD class=3D"r data">0.179712</TD>
+    <TD class=3D"r data">1.05</TD>
+    <TD class=3D"r data">0.2920</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>custsize</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.611741</TD>
+    <TD class=3D"r data">0.576807</TD>
+    <TD class=3D"r data">1.06</TD>
+    <TD class=3D"r =
+data">0.2891</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX57></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">price</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r =
+data">price</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX58></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">101.7699</TD>
+    <TD class=3D"r data">0.890729</TD>
+    <TD class=3D"r data">114.25</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.02062</TD>
+    <TD class=3D"r data">0.011993</TD>
+    <TD class=3D"r data" noWrap>-1.72</TD>
+    <TD class=3D"r data">0.0857</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.186184</TD>
+    <TD class=3D"r data">0.021058</TD>
+    <TD class=3D"r data">8.84</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>dc</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.63742</TD>
+    <TD class=3D"r data">0.505235</TD>
+    <TD class=3D"r data" noWrap>-3.24</TD>
+    <TD class=3D"r data">0.0012</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.752774</TD>
+    <TD class=3D"r data">1.040374</TD>
+    <TD class=3D"r data">1.68</TD>
+    <TD class=3D"r data">0.0923</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.306627</TD>
+    <TD class=3D"r data">0.500013</TD>
+    <TD class=3D"r data">0.61</TD>
+    <TD class=3D"r data">0.5398</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-1.21263</TD>
+    <TD class=3D"r data">0.963328</TD>
+    <TD class=3D"r data" noWrap>-1.26</TD>
+    <TD class=3D"r data">0.2083</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>mktexp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.204165</TD>
+    <TD class=3D"r data">0.028193</TD>
+    <TD class=3D"r data">7.24</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pnp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.02224</TD>
+    <TD class=3D"r data">0.014936</TD>
+    <TD class=3D"r data" noWrap>-1.49</TD>
+    <TD class=3D"r =
+data">0.1368</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX59></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Name and label for the Model" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">dc</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Dependent Variable</TH>
+    <TD class=3D"r data">dc</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX60></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Syslin: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.012791</TD>
+    <TD class=3D"r data">0.118721</TD>
+    <TD class=3D"r data">8.53</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ms</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.005072</TD>
+    <TD class=3D"r data">0.002311</TD>
+    <TD class=3D"r data">2.19</TD>
+    <TD class=3D"r data">0.0284</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>qual</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.029355</TD>
+    <TD class=3D"r data">0.003811</TD>
+    <TD class=3D"r data">7.70</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>pion</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.015916</TD>
+    <TD class=3D"r data">0.177061</TD>
+    <TD class=3D"r data">0.09</TD>
+    <TD class=3D"r data">0.9284</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ef</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.148434</TD>
+    <TD class=3D"r data">0.093043</TD>
+    <TD class=3D"r data">1.60</TD>
+    <TD class=3D"r data">0.1109</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>tyrp</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.174764</TD>
+    <TD class=3D"r data">0.158059</TD>
+    <TD class=3D"r data">1.11</TD>
+    <TD class=3D"r data">0.2691</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>penew</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.000522</TD>
+    <TD class=3D"r data">0.000703</TD>
+    <TD class=3D"r data">0.74</TD>
+    <TD class=3D"r data">0.4583</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>cap</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.001372</TD>
+    <TD class=3D"r data">0.000806</TD>
+    <TD class=3D"r data">1.70</TD>
+    <TD class=3D"r data">0.0890</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>rbvi</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.010402</TD>
+    <TD class=3D"r data">0.018478</TD>
+    <TD class=3D"r data">0.56</TD>
+    <TD class=3D"r data">0.5736</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>emprody</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.00015</TD>
+    <TD class=3D"r data">0.000432</TD>
+    <TD class=3D"r data" noWrap>-0.34</TD>
+    <TD class=3D"r data">0.7349</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>union</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data" noWrap>-0.00008</TD>
+    <TD class=3D"r data">0.000294</TD>
+    <TD class=3D"r data" noWrap>-0.26</TD>
+    <TD=20
+class=3D"r =
+data">0.7926</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV></BODY></HTML=
+>
